@@ -1,0 +1,25 @@
+etrando na pasta
+    - git db (pasta)
+
+comando que cria uma branch local
+    - git checkout -b (nome da branch)
+Envia branch para o servidor 
+    - git push --set-upstream (nome b)
+Listar o conteudo criado, modificado ou deletado
+    - git status
+Adiciona um arquivo na staged area
+    - git add (. add tudo/nome do arquivo)
+Comite da alteracao
+    - git commit -m 'adicionado o arquivo da tarefa01'
+Enviando ao servidor
+    - git push origin
+Junta os branch
+    - git merge (nome b)
+Após
+    - git push origin(atualizar tudo)
+Log
+   - git log
+fechamento da versao
+   - git tag -a v1.0.0 -m '1.0'
+   - git push origin (vercao)
+   
